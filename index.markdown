@@ -4,3 +4,9 @@
 
 layout: default
 ---
+
+<center><h1>Downloads</h1></center>
+
+<center>
+  <a href="https://github.com/InsurgencyDevelopment/insurgency-client" class="btn">1.21</a>
+</center>
