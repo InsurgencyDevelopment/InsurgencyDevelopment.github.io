@@ -9,7 +9,7 @@ layout: default
 
 <center>
   <a href="https://github.com/InsurgencyDevelopment/insurgency-client/releases/latest/download/insurgency.jar " class="btn">Latest release</a>
-  <a href="https://github.com/InsurgencyDevelopment/insurgency-client" class="btn">Source code</a>
+  <a href="https://github.com/InsurgencyDevelopment/insurgency-client/releases/download/1.0.0-beta/insurgency.jar" class="btn">1.0.0-beta</a>
 </center>
 
 <center><a href="https://insurgencydevelopment.github.io/downloads/" class="download-link">More downloads</a></center>
